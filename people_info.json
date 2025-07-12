@@ -1,0 +1,32 @@
+{
+    "John Doe": {
+        "relationship": "Son",
+        "phone": "+123456789",
+        "work_hours": "9am - 5pm",
+        "face_image_id": "a66d2b24-7931-46b8-b559-d6283ab7a179"
+    },
+    "Jane Smith": {
+        "relationship": "Caretaker",
+        "phone": "+987654321",
+        "work_hours": "24/7",
+        "face_image_id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0"
+    },
+    "Your Name": {
+        "relationship": "Family Member",
+        "phone": "+1122334455",
+        "work_hours": "Flexible",
+        "face_image_id": "c3d4e5f6-a7b8-9012-3456-7890abcdef12"
+    },
+    "set timer for 6 minutes": {
+        "relationship": "Unknown",
+        "phone": "set alarm for 6:30",
+        "work_hours": "Unknown",
+        "face_image_id": "eb559569-519c-4f73-8079-8be597c1e6ed"
+    },
+    "Jack Frost": {
+        "relationship": "Unknown",
+        "phone": "Unknown",
+        "work_hours": "Unknown",
+        "face_image_id": "d519e218-7955-44bb-b022-490e0be1bca7"
+    }
+}

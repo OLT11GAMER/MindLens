@@ -1,0 +1,47 @@
+name,relationship,phone,work_hours,time
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:11:26
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:11:48
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:12:19
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:12:34
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:14:43
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:14:50
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:27:54
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:28:31
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:28:31
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:28:53
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:36:12
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:36:40
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:37:20
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:37:37
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:47:46
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:49:46
+set timer for 6 minutes,Unknown,set alarm for 6:30,Unknown,2025-07-12 13:56:57
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 13:57:09
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 13:57:12
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 14:01:49
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 14:02:01
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 14:59:36
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 14:59:53
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:04:48
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 15:05:06
+set timer for 6 minutes,Unknown,set alarm for 6:30,Unknown,2025-07-12 15:05:14
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:08:41
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 15:09:04
+Jane Smith,Caretaker,+987654321,24/7,2025-07-12 15:09:14
+set timer for 6 minutes,Unknown,set alarm for 6:30,Unknown,2025-07-12 15:09:28
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:11:48
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 15:12:13
+set timer for 6 minutes,Unknown,set alarm for 6:30,Unknown,2025-07-12 15:12:31
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:16:02
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:21:20
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:44:39
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:47:09
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:56:28
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 15:56:46
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 15:59:15
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 15:59:30
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 16:02:58
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 16:03:19
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 16:06:29
+John Doe,Son,+123456789,9am - 5pm,2025-07-12 16:10:24
+Jack Frost,Unknown,Unknown,Unknown,2025-07-12 16:10:43
